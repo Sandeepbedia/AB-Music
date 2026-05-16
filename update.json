@@ -1,6 +1,6 @@
 {
-  "version_name": "2.1",
-  "version_code": 3,
+  "version_name": "3.1",
+  "version_code": 4,
   "release_notes": "Bug fixes, enhanced UI, real-time download detection, improved mini player",
   "apk_url": "https://github.com/Sandeepbedia/Update/releases/download/V1.0/Dialog_1.0.apk",
   "force_update": false
