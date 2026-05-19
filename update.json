@@ -1,7 +1,15 @@
 {
   "version_name": "3.0",
   "version_code": 3,
-  "release_notes": "Added 3 AMOLED themes, redesigned Neomorphic UI/UX, removed Recently Added cards section, enhanced UI/UX across all pages, improved mini player, real-time download detection, bug fixes and performance improvements",
+  "release_notes": [
+    "Added 3 AMOLED themes",
+    "Redesigned Neomorphic UI/UX",
+    "Removed Recently Added cards section",
+    "Enhanced UI/UX across all pages",
+    "Improved mini player experience",
+    "Real-time download detection added",
+    "Bug fixes and performance improvements"
+  ],
   "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-3.0/app-release.apk",
   "force_update": false
 }
