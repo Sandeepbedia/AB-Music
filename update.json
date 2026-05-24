@@ -1,16 +1,14 @@
 {
-  "version_name": "5.0",
+  "version_name": "4.1",
   "version_code": 5,
-  "release_notes": [
-    "Added 3 AMOLED themes",
-    "Redesigned Neomorphic UI/UX",
-    "Removed Recently Added cards section",
-    "Enhanced UI/UX across all pages",
-    "Improved mini player experience",
-    "Real-time download detection added",
-    "Lag-free optimized experience",
-    "Bug fixes and performance improvements"
+  "release_notes": "Update dialogue box updated • UI/UX enhanced • 3D neumorphism effects added • AMOLED theme added • Developed by Sandeep Bedia",
+  "changelog": [
+    "Update dialogue box updated",
+    "UI/UX enhanced",
+    "3D neumorphism effects added",
+    "AMOLED theme added",
+    "Developed by Sandeep Bedia"
   ],
-  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-4.0/app-release.apk",
+  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/v4.1/ABMusic-v4.1.apk",
   "force_update": false
 }
