@@ -6,17 +6,7 @@
     "Update dialogue box updated",
     "UI/UX enhanced",
     "3D neumorphism effects added",
-    "AMOLED theme added",
-    "Improved music playback performance",
-    "Fixed shuffle mode bug",
-    "Added equalizer presets",
-    "Enhanced battery optimization",
-    "Dark mode improvements",
-    "Updated music library scanning",
-    "Fixed crash on playlist deletion",
-    "Added gesture controls",
-    "Improved audio quality",
-    "Better theme customization options"
+    "AMOLED theme added"
   ],
   "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-6.0/app-release.apk",
   "force_update": false
